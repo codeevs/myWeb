@@ -1,0 +1,19 @@
+.footer{
+    background-color: #212F3C ;
+    display: block;
+   text-align: center;
+   width: 100%;
+   align-self: flex-end;
+}
+
+
+.mt-auto{
+    margin-top: auto;
+}
+.py-3{
+    padding-bottom: 1rem;
+}
+.fab{
+    color: white;
+    border-radius: 5px;
+}

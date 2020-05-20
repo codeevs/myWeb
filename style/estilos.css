@@ -1,0 +1,36 @@
+.container{
+    width: 1300px;
+}
+
+.texto-principal{
+    background: #F7F9F9;
+    
+}
+.borde{
+    border: 1px;
+    text-align: center;
+    height: 50px;
+    
+}
+.imgYo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #ddd;
+}
+.footer{
+    background-color: #212F3C ;
+    display: block;
+   text-align: center;
+   width: 100%;
+   align-self: flex-end;
+}
+.mt-auto{
+    margin-top: auto;
+}
+.py-3{
+    padding-bottom: 1rem;
+}
+.fab{
+    color: white;
+    border-radius: 5px;
+}
