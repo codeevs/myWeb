@@ -1,6 +1,3 @@
-.container{
-    width: 1300px;
-}
 
 .texto-principal{
     background: #F7F9F9;
@@ -24,6 +21,7 @@
    width: 100%;
    align-self: flex-end;
 }
+
 .mt-auto{
     margin-top: auto;
 }
